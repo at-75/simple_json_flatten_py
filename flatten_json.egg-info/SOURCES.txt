@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+flatten_json.egg-info/PKG-INFO
+flatten_json.egg-info/SOURCES.txt
+flatten_json.egg-info/dependency_links.txt
+flatten_json.egg-info/top_level.txt
+flatten_json_py/__init__.py
+flatten_json_py/flatten_json.py

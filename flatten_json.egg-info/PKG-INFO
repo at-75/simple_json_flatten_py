@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: flatten-json
+Version: 0.0.1
+Summary: For flattening complex JSONs or JSON array
+Home-page: https://github.com/at-75
+Author: Abhishek Thakur
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: <4,>=3.7
+License-File: LICENSE
+
+file README.md
