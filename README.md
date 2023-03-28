@@ -12,7 +12,7 @@ pip install json_flatten_py
 ## Usage
 
 ```python
-from from simple_flatten_json_py import flatten_json
+from simple_flatten_json_py import flatten_json
 
 # Sample JSON data
 data={
