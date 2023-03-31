@@ -1,10 +1,11 @@
-#todo add the logic for simplifying json array
 def flatten_json(json_obj_, name_=""):
     flat_dict = {}
     
     def join_(a, b):
         if not isinstance(a, str): a = str(a)
         if not isinstance(b, str): b = str(b)
+        if a=="":
+            return b
         return a + '_' + b 
     
     def __flat__json(json_obj, name):
