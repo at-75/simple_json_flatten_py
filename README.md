@@ -10,6 +10,21 @@ pip install json_flatten_py
 ```
 
 ## Usage
+It can flatten any type of a single JSON object into a one-to-one JSON mapping.
+For e.g.
+
+```JSON
+{
+"a": [ {"b":37},{"c":64}],
+"g": 26
+}
+---->
+{
+  "a_b":37
+  "a_c":64
+  "g":26
+}
+```
 
 ```python
 from simple_flatten_json_py import flatten_json
