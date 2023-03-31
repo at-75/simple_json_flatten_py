@@ -1,5 +1,5 @@
 # simple_json_flatten_py
-json_flatten_py is a Python library for flattening complex JSONs.
+simple_json_flatten_py is a Python library for flattening complex JSONs.
 
 ## Installation
 
