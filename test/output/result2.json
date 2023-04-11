@@ -1,0 +1,18 @@
+{
+    "name":"John",
+    "age":32,
+    "address_street":"123 Main St",
+    "address_city":"Anytown",
+    "address_state":"CA",
+    "address_zip":"12345",
+    "address_country_name":"United States",
+    "address_country_code":"US",
+    "address_country_region_name":"North America",
+    "address_country_region_code":"NA",
+    "address_country_region_planet_name":"Earth",
+    "address_country_region_planet_type":"Terrestrial",
+    "address_country_region_planet_star_name":"Sun",
+    "address_country_region_planet_star_type":"G-type",
+    "address_country_region_planet_star_galaxy_name":"Milky Way",
+    "address_country_region_planet_star_galaxy_type":"Spiral"
+ }
