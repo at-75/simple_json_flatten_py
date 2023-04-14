@@ -3,7 +3,7 @@ simple_json_flatten_py is a Python library for flattening complex JSONs.
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the library.
 
 ```bash
 pip install simple-flatten-json
