@@ -5,9 +5,6 @@ def read_file(filename):
     with open(filename, 'r') as f:
         data = json.load(f)
     return data
-# data=read_file("input/test3.json")
-# print(data)
-# print(simple_flatten_json.flatten_json(data))
 
 # Create a test case class
 class TestFlatClass(unittest.TestCase):
