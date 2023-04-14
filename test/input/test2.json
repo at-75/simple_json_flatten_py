@@ -1,0 +1,30 @@
+{
+    "name": "John",
+    "age": 32,
+    "address": {
+        "street": "123 Main St",
+        "city": "Anytown",
+        "state": "CA",
+        "zip": "12345",
+        "country": {
+            "name": "United States",
+            "code": "US",
+            "region": {
+                "name": "North America",
+                "code": "NA",
+                "planet": {
+                    "name": "Earth",
+                    "type": "Terrestrial",
+                    "star": {
+                        "name": "Sun",
+                        "type": "G-type",
+                        "galaxy": {
+                            "name": "Milky Way",
+                            "type": "Spiral"
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
